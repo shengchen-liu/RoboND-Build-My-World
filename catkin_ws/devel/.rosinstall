@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/shengchen/Udacity/RoboND/RoboND-Build-My-World/catkin_ws/devel/setup.sh
