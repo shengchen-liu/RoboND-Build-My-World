@@ -38,4 +38,4 @@
 
    * The world is visualized as following:
 
-     ![](../images/world.jpg)
+     ![](./images/world.jpg)
