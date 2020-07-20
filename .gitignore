@@ -27,6 +27,7 @@ __pycache__/config.cpython-36.pyc
 .Python
 env/
 catkin_ws/build/
+catkin_ws/src/my_world/build
 develop-eggs/
 dist/
 downloads/
